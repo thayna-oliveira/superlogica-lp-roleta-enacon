@@ -47,7 +47,7 @@
   "numSpins": 1 ,
   "spinDestinationArray":[],
   "minSpinDuration":1,
-  "gameOverText":"Obrigado(a)! <a href='http://127.0.0.1:49761/'>jogar novamente</a>",
+  "gameOverText":"Obrigado(a)! <a href='https://recorrencia.superlogica.com/rolata-enacon'>jogar novamente</a>",
   "invalidSpinText":"Inválido! Favor jogar novamente!",
   "introText":"Bem vindo!",
   "hasSound":true,
